@@ -34,4 +34,4 @@ Assignment Solution
     <li>Pytorch (Sobel)</li>
     </ul></td>
   </tr>
-</table>
+</table> 
